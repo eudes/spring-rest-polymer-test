@@ -1,5 +1,4 @@
-Polymer - Spring Test app
-###################
+## Polymer - Spring Test app
 
 Test app for an app that relies on a microservice Spring backend, and modular Polymer frontend.
 
